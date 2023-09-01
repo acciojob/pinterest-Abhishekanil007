@@ -6,8 +6,8 @@
 	
 }
 .hero>img{
-	height:50vh;
-	width:65vw;
+	height:55vh;
+	width:55vw;
 	object-fit:cover;
 }
 .hero-inside{
@@ -15,10 +15,14 @@
 	width:50%;
 	padding:10px;
 }
-.hero-inside>h2, .hero-inside>p{
+.hero-inside>h1, .hero-inside>p{
 	text-align:center;
 }
 .hero-inside>button{
 	margin-left:30%;
-	padding:5px;
+	padding:10px;
+	color:white;
+	background-color:red;
+	border:none;
+	border-radius:5px;
 }
